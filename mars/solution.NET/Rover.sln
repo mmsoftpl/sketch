@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rover.Logic", "Rover.Logic\Rover.Logic.csproj", "{AF33A345-7703-4EC6-A2D7-7F702205766F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rover", "Rover\Rover.csproj", "{8791FA85-FF65-40EA-A4B0-788477348B6F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rovert.Test", "Rovert.Test\Rovert.Test.csproj", "{D958BC75-4CD8-48F7-AD95-C42881D536B4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF33A345-7703-4EC6-A2D7-7F702205766F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF33A345-7703-4EC6-A2D7-7F702205766F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF33A345-7703-4EC6-A2D7-7F702205766F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF33A345-7703-4EC6-A2D7-7F702205766F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8791FA85-FF65-40EA-A4B0-788477348B6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8791FA85-FF65-40EA-A4B0-788477348B6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8791FA85-FF65-40EA-A4B0-788477348B6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8791FA85-FF65-40EA-A4B0-788477348B6F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D958BC75-4CD8-48F7-AD95-C42881D536B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D958BC75-4CD8-48F7-AD95-C42881D536B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D958BC75-4CD8-48F7-AD95-C42881D536B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D958BC75-4CD8-48F7-AD95-C42881D536B4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
